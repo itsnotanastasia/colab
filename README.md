@@ -1,0 +1,3 @@
+# colaboration 
+
+i hate git 
